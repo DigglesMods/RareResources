@@ -1,0 +1,18 @@
+{
+	"version" : "1.0",
+	"author" : "Chris1231",
+	
+	"name" :  {
+		"en" : "Rare Resources",
+		"de" : "Seltene Ressourcen"
+	},
+	"description" : {
+		"en" : "You can craft resources (i. e. 9 stones > 1 ironore).",
+		"de" : "Diese Mod ermöglicht Rohstoffe herzustellen (z.B. Steinmetz aus 9 Steinen > 1 Eisenerz)."
+	},
+	
+	"links" : {
+		"download" : "https://github.com/DigglesMods/RareResources/releases",
+		"wiki" : "https://github.com/DigglesMods/RareResources/wiki"
+	}
+}
