@@ -10,6 +10,7 @@ fr "Minerai d'or"
 it "Minerale d'oro"
 nl "Gouderts"
 es "Mineral de oro"
+pl "Ruda z³ota"
 
 
 $end
@@ -27,6 +28,7 @@ fr "Minerai de fer"
 it "Minerale di ferro"
 nl "IJzererts"
 es "Mineral de hierro"
+pl "Ruda ¿elaza"
 
 
 $end
@@ -44,6 +46,7 @@ fr "Charbon"
 it "Carbone"
 nl "Kolen"
 es "Carbón"
+pl "Wêgiel"
 
 
 $end
