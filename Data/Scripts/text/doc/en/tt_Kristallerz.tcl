@@ -8,7 +8,7 @@ textwin print "/(is10)/(ildata/gui/icons/Kristallerz.tga)"
 ohlp_ttheadlinestyle
 textwin print "Crystal Ore"
 ohlp_tttextbodystyle
-textwin print "With a massive hammer and the Hand of Odins you can beat coal to exquisite Crystal Ore."
+textwin print "With a massive hammer and the Hand of Odin you can beat coal to exquisite Crystal Ore."
 
 // ---- do not change anything below this line ---
 
