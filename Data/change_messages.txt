@@ -11,6 +11,7 @@ it "Minerale d'oro"
 nl "Gouderts"
 es "Mineral de oro"
 pl "Ruda z³ota"
+ru "Çîëîòàÿ ğóäà"
 
 
 $end
@@ -29,6 +30,7 @@ it "Minerale di ferro"
 nl "IJzererts"
 es "Mineral de hierro"
 pl "Ruda ¿elaza"
+ru "Æåëåçíàÿ ğóäà"
 
 
 $end
@@ -47,6 +49,7 @@ it "Carbone"
 nl "Kolen"
 es "Carbón"
 pl "Wêgiel"
+ru "Óãîëü"
 
 
 $end
