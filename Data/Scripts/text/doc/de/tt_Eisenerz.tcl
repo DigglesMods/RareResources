@@ -8,7 +8,7 @@ textwin print "/(is10)/(ildata/gui/icons/Eisenerz.tga)"
 ohlp_ttheadlinestyle
 textwin print "Eisenerz"
 ohlp_tttextbodystyle
-textwin print "Mit harter Arbeit und guten Schmelzkünsten kann man aus Steinen auf wertvolles Eisenerz herstellen."
+textwin print "Mit harter Arbeit und guten Schmelzkünsten kann man aus Steinen wertvolles Eisenerz herstellen."
 
 // ---- do not change anything below this line ---
 
